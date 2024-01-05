@@ -9,5 +9,6 @@
 
 1. Clone this repo
 2. Run `npm install`
-3. Run `turbo build` to build the project
-4. Run `turbo dev` to start local server
+3. Run `turbo build` once to create cache locally
+4. Rub `turbo build` again to build the project
+5. Run `turbo dev` to start local server
